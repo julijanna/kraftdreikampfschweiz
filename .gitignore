@@ -1,0 +1,11 @@
+b-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+.DS_Store
+.ipynb_checkpoints/
